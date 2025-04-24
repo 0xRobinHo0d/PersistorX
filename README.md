@@ -13,7 +13,7 @@
 
 **Persistox** is a Python-based Windows persistence scanning tool I've been working on. It's designed for red teamers and penetration testers, automating the discovery of Windows persistence mechanisms across a target system. Persistox helps uncover and detect potential persistence vectors.
 
-> The goal: Quickly identify persistence vectors that can be exploited **under the current user context**, including checking for write permissions and the needed checks to perform the persistence also the required instructions for the command-line usage.
+> **The goal: Quickly identify persistence vectors that can be exploited **under the current user context**, including checking for write permissions and the needed checks to perform the persistence also the required instructions for the command-line usage.**
 
 ---
 
