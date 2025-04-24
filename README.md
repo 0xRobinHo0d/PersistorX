@@ -66,7 +66,7 @@ python3 persistorx.py [OPTIONS]
 ```
 ## 🔧 Options
 
-Option   	|Description
+Option  |Description
 ----------------|----------------------------------------
 -l, --list	| List all available persistence techniques
 -m <N>	        | Scan a specific technique by its number
