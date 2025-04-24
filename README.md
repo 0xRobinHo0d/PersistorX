@@ -58,3 +58,15 @@
 git clone https://github.com/0xRobinHo0d/Persistox.git
 cd Persistox
 pip install -r requirements.txt
+
+▶️ Usage
+python persistorx.py [OPTIONS]
+
+🔧 Options
+
+Option | Description
+-l, --list | List all available persistence techniques
+-m <N> | Scan a specific technique by number
+-s, --scan | Scan all known techniques
+--persist-only | Show only techniques applicable to the current user
+-v, --version | Show version info
