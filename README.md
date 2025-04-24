@@ -73,4 +73,5 @@ Option  |Description
 -s, --scan	| Scan all the available techniques
 --persist-only	| Show only the techniques applicable under the current user contexts
 -v, --version	| Show version info
+-h, --help    | Show the help and usage of the tool
 
