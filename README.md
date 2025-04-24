@@ -41,7 +41,6 @@
 - Print-related DLLs  
 - LSA-loaded DLLs  
 - Developer Hooks
-- 
 ---
 
 ## ✨ Key Features
