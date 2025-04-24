@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ## ▶️ Usage
 
-python persistorx.py [OPTIONS]
+python3 persistorx.py [OPTIONS]
 
 ## 🔧 Options
 
