@@ -78,5 +78,23 @@ Option  |Description
 ## 💣 Examples
 * to List all the available persistence methods:
 
-```python persistorx.py --list```
+```python3 persistorx.py --list```
+
+* Scan for a specific method by its number:
+
+```python3 persistorx.py --method 3```
+
+* Scan with all the available techniques:
+
+```python3 persistorx.py --scan```
+
+* Show only applicable persistence vectors for the target:
+
+```python persistorx.py --scan --persist-only```
+
+
+
+
+
+
 
