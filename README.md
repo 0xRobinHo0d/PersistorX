@@ -92,12 +92,12 @@ Option  |Description
 
 ```python3 persistorx.py --scan --persist-only```
 
-## 🧪 Roadmap
- Windows persistence scanner v1
+## 📌 Roadmap
+☑️ Windows persistence scanner v1
 
- Linux version (coming soon)
+⬜ Linux version (coming soon)
 
-## ⚠️ Legal Notice
+## ⚠️ Disclaimer
 This tool is intended only for educational, red team, and authorized auditing purposes.
 Do NOT use Persistox on systems you do not own or do not have explicit permission to test.
 The author is not responsible for any misuse of this tool.
