@@ -1,12 +1,12 @@
 # PersistorX v1.0
-# By ibrahim Ali - 0xRobinHo0d - https://x.com/ibraheemmajzoup
+# Created by ibrahim Ali - 0xRobinHo0d - https://x.com/ibraheemmajzoup
 
 
 
 import os
 import sys
 import ctypes
-import winreg
+import winreg  # For registry access (works only on Windows)
 import subprocess
 import argparse
 from colorama import init, Fore, Style
