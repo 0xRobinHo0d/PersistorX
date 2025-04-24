@@ -90,7 +90,7 @@ Option  |Description
 
 * Show only applicable persistence vectors for the target:
 
-```python persistorx.py --scan --persist-only```
+```bash python persistorx.py --scan --persist-only```
 
 
 
