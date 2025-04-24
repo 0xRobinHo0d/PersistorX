@@ -45,10 +45,10 @@
 
 ## ✨ Key Features
 
-- ✅ **Writable Check:** Verifies if the current user has write access to registry keys or file paths.
-- ✅ **Native Tool Scanning:** Uses `schtasks`, `sc`, `bitsadmin`, `wmic`, and `sdbinst` and other windows native tools to find persistence vectors.
-- ✅ **Actionable Output:** Shows whether the method can be used and provides usage commands and instructions on how to leverage it.
-- ✅ **Technique Descriptions:** Each persistence method includes a short description .
+✅ **Writable Check:** Verifies if the current user has write access to registry keys or file paths.
+✅ **Native Tool Scanning:** Uses `schtasks`, `sc`, `bitsadmin`, `wmic`, and `sdbinst` and other windows native tools to find persistence vectors.
+✅ **Actionable Output:** Shows whether the method can be used and provides usage commands and instructions on how to leverage it.
+✅ **Technique Descriptions:** Each persistence method includes a short description .
 
 ---
 
