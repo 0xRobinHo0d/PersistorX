@@ -77,5 +77,6 @@ Option  |Description
 
 ## 💣 Examples
 * to List all the available persistence methods:
-```python persistorx.py --list ```
+
+```python persistorx.py --list```
 
