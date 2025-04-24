@@ -102,7 +102,7 @@ Option  |Description
 ⬜ Linux version (coming soon)
 
 ## ⚠️ Disclaimer
-This tool is intended only for educational, red team, and authorized auditing purposes.
+This tool is intended only for educational, red team, and authorized testing purposes.
 Do NOT use Persistox on systems you do not own or do not have explicit permission to test.
 The author is not responsible for any misuse of this tool.
 
