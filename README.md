@@ -96,6 +96,3 @@ python persistorx.py --scan --persist-only```
 
 
 
-
-
-
