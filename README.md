@@ -69,7 +69,7 @@ python3 persistorx.py [OPTIONS]
 Option  |Description
 ----------------|----------------------------------------
 -l, --list	| List all available persistence techniques
--m <N>	        | Scan a specific technique by its number
+-m <N>,--method <N>      | Scan a specific technique by its number
 -s, --scan	| Scan all the available techniques
 --persist-only	| Show only the techniques applicable under the current user contexts
 -v, --version	| Show version info
