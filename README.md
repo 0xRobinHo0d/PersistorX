@@ -61,15 +61,15 @@ pip install -r requirements.txt
 ```
 
 ## ▶️ Usage
-
-python3 persistorx.py [OPTIONS]
-
-## 🔧 Options
 ```bash
+python3 persistorx.py [OPTIONS]
+```
+## 🔧 Options
+
 Option | Description
 -l, --list | List all available persistence techniques
 -m <N> | Scan a specific technique by number
 -s, --scan | Scan all known techniques
 --persist-only | Show only techniques applicable to the current user
 -v, --version | Show version info
-```
+
