@@ -75,3 +75,7 @@ Option  |Description
 -v, --version	| Show version info
 -h, --help    | Show the help and usage of the tool
 
+## 💣 Examples
+* to List all the available persistence methods:
+```python persistorx.py --list ```
+
