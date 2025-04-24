@@ -2,7 +2,7 @@
 
 🔐 **Python-based Windows Persistence Scanner for Red Teamers and Penetration testers**
 
-**Author:** Ibrahim Ali (0xRobinHo0d) — [@ibraheemmajzoup](https://x.com/ibraheemmajzoup)    
+👨‍💻 **Author:** Ibrahim Ali (0xRobinHo0d) — [@ibraheemmajzoup](https://x.com/ibraheemmajzoup)    
 **Platform:** Windows  
 **Version:** 1.0  
 **License:** MIT
