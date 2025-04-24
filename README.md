@@ -66,10 +66,11 @@ python3 persistorx.py [OPTIONS]
 ```
 ## 🔧 Options
 
-Option | Description
--l, --list | List all available persistence techniques
--m <N> | Scan a specific technique by number
--s, --scan | Scan all known techniques
---persist-only | Show only techniques applicable to the current user
--v, --version | Show version info
+Option   	|Description
+----------------|----------------------------------------
+-l, --list	| List all available persistence techniques
+-m <N>	        | Scan a specific technique by its number
+-s, --scan	| Scan all the available techniques
+--persist-only	| Show only the techniques applicable under the current user contexts
+-v, --version	| Show version info
 
