@@ -59,7 +59,7 @@
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/0xRobinHo0d/Persistox.git
+git clone https://github.com/0xRobinHo0d/Persistox
 cd Persistox
 pip install -r requirements.txt
 ```
