@@ -50,6 +50,7 @@
 ✅ **Actionable Output:** Shows whether the method can be used and provides usage commands and instructions on how to leverage it.
 ✅ **Technique Descriptions:** Each persistence method includes a short description .
 
+
 ---
 
 ## ⚙️ Installation
